@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_avatar_1.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_avatar_2.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_avatar_5.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_avatar_7.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/font/comfortaa.xml" value="0.3125" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1813922356091031" />
+        <entry key="app/src/main/res/layout-w1240dp/add_grocerylist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w1240dp/grocery_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w1240dp/recycler_row.xml" value="0.1813922356091031" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.21171875" />
+        <entry key="app/src/main/res/layout/MainMenu" value="0.2959767659505208" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.15639648437499998" />
+        <entry key="app/src/main/res/layout/add_food.xml" value="0.21815329289090804" />
+        <entry key="app/src/main/res/layout/add_grocerylist.xml" value="0.231722958529286" />
+        <entry key="app/src/main/res/layout/add_popup.xml" value="0.25849761962890627" />
+        <entry key="app/src/main/res/layout/fridge.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/grocery_list.xml" value="0.231722958529286" />
+        <entry key="app/src/main/res/layout/help.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/mainmenu.xml" value="0.1950205485026042" />
+        <entry key="app/src/main/res/layout/recycler_row.xml" value="0.231722958529286" />
+        <entry key="app/src/main/res/layout/user.xml" value="0.3134674072265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

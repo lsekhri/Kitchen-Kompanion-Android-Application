@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="422dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/comfortaa"
+        android:text="Help"
+        android:textAlignment="center"
+        android:textColor="#FAF9F9"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="404dp"
+        android:layout_height="337dp"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:fontFamily="@font/comfortaa"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:text="Press the + Button to add Food Items\n\nTap the yellow edit button to edit that row's info and tap the purple save button above to save the edited row\n\nThe green and red buttons can be used to quickly increment or decrement the quantity of a Food Item, respectively, and do not require tapping the save button\n\nHold the yellow edit button to delete a row and its Food item\n\nFinally, hold a food item's name to view its description and who it's share with\n\nClick outside the popup to close it."
+        android:textColor="#FFFFFF"
+        android:textSize="15.4sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
